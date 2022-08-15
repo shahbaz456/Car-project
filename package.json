@@ -1,6 +1,5 @@
 {
-  "homepage": "https://haydenlinder.github.io/threejs-react-deploy",
-  "name": "threejs-react-deploy",
+  "name": "car-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
